@@ -1,2 +1,2 @@
 # Machine-Learning-System-and-Platform-Experiment
-机器学习平台实验代码
+机器学习系统与平台课程实验代码
